@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="1024" height="500"/>
+    <g id="shell_prompt" transform="matrix(1,0,0,1,130,330)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:124px;fill:white;">$ <tspan x="101.174px 163.174px 232.137px " y="0px 0px 0px ">Ter</tspan>mux █</text>
+    </g>
+    <g transform="matrix(10.0826,0,0,10.0826,521.475,-70.0369)">
+        <path d="M36.53,42L34.732,42L33.889,39.359L28.847,39.359L27.994,42L26.28,42L30.302,29.887L32.563,29.887L36.53,42ZM33.416,37.885L31.368,31.407L29.32,37.885L33.416,37.885Z" style="fill:url(#_Linear1);"/>
+        <path d="M41.006,31.277L38.217,31.277L38.217,29.887L45.464,29.887L45.464,31.277L42.674,31.277L42.674,40.591L45.464,40.591L45.464,42L38.217,42L38.217,40.591L41.006,40.591L41.006,31.277Z" style="fill:url(#_Linear2);"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.5476,9.86716,-9.86716,14.5476,29.225,30.7242)"><stop offset="0" style="stop-color:rgb(67,255,110);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,57,57);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.5476,9.86716,-9.86716,14.5476,29.225,30.7242)"><stop offset="0" style="stop-color:rgb(67,255,110);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,57,57);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

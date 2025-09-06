@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Termux</string>
+
+    <string name="permission_termux_internal_label">Termux Internal</string>
+    <string name="permission_termux_internal_description">Access internal Termux functionality.</string>
+
+    <!-- Termux Bootstrap Packages Installation -->
+    <string name="bootstrap_installer_body">Installing bootstrap packages…</string>
+    <string name="bootstrap_error_title">Unable to install bootstrap</string>
+    <string name="bootstrap_error_body">Termux was unable to install the bootstrap packages.</string>
+    <string name="bootstrap_error_abort">Abort</string>
+    <string name="bootstrap_error_try_again">Try again</string>
+    <string name="bootstrap_error_not_primary_user_message">Termux can only be run as the primary user.</string>
+    <string name="bootstrap_error_installed_on_portable_sd">Termux cannot be installed on external storage.</string>
+
+    <!-- Terminal Sidebar and Shortcuts -->
+    <string name="action_new_session">New session</string>
+    <string name="action_new_session_failsafe">New failsafe session</string>
+    <string name="title_max_terminals_reached">Max terminals reached</string>
+    <string name="msg_max_terminals_reached">Close down existing ones before creating new.</string>
+    <string name="title_rename_session">Set session name</string>
+    <string name="hint_session_name">Session name</string>
+    <string name="action_rename_session_confirm">Set</string>
+    <string name="title_create_named_session">New named session</string>
+    <string name="action_create_named_session_confirm">Create</string>
+    <string name="msg_enabling_terminal_toolbar">Enabling Terminal Toolbar</string>
+    <string name="msg_disabling_terminal_toolbar">Disabling Terminal Toolbar</string>
+
+    <!-- Terminal Popup -->
+    <string name="action_select_url">Select URL</string>
+    <string name="title_select_url_dialog">Click URL to copy or long press to open</string>
+    <string name="title_select_url_none_found">No URL found in the terminal.</string>
+    <string name="msg_select_url_copied_to_clipboard">URL copied to clipboard</string>
+    <string name="action_share_transcript">Share transcript</string>
+    <string name="title_share_transcript">Terminal transcript</string>
+    <string name="title_share_transcript_with">Send transcript to:</string>
+    <string name="action_share_selected_text">Share selected text</string>
+    <string name="title_share_selected_text">Terminal Text</string>
+    <string name="title_share_selected_text_with">Send selected text to:</string>
+    <string name="action_autofill_username">Autofill username</string>
+    <string name="action_autofill_password">Autofill password</string>
+    <string name="action_reset_terminal">Reset</string>
+    <string name="msg_terminal_reset">Terminal reset</string>
+    <string name="action_kill_process">Kill process (%d)</string>
+    <string name="title_confirm_kill_process">Really kill this session?</string>
+    <string name="action_style_terminal">Style</string>
+    <string name="action_toggle_keep_screen_on">Keep screen on</string>
+    <string name="action_fullscreen">Fullscreen</string>
+    <string name="action_open_help">Help</string>
+    <string name="error_styling_not_installed">The latest Termux:Style app version is not installed.</string>
+    <string name="action_styling_install">Install</string>
+
+    <!-- Share -->
+    <string name="title_share_with">Share With</string>
+    <string name="title_open_url_with">Open URL With</string>
+    <string name="share_file_chooser_title">Share with</string>
+
+    <!-- Termux Notifications -->
+    <string name="notification_action_exit">Exit</string>
+    <string name="notification_action_wake_lock">Acquire wakelock</string>
+    <string name="notification_action_wake_unlock">Release wakelock</string>
+
+    <!-- Termux File Receiver -->
+    <string name="title_file_received">Save file in ~/downloads/</string>
+    <string name="action_file_received_edit">Edit</string>
+    <string name="action_file_received_open_directory">Open directory</string>
+
+    <!-- Widgets -->
+    <string name="title_shortcut_widget_name">Widget</string>
+    <string name="title_single_shortcut_name">Shortcut</string>
+    <string name="msg_no_shortcut_scripts">No files in $HOME/.shortcuts/</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="msg_pinned_shortcuts_not_supported">The current launcher does not support pinned shortcuts.</string>
+    <string name="msg_widgets_reloaded">Termux widget reloaded</string>
+    <string name="msg_executing_task">Executing task: \"%1$s\"</string>
+
+    <!-- Miscellaneous -->
+    <string name="hint_file_name">File name</string>
+    <string name="cancel">Cancel</string>
+    <string name="notification_channel_high_priority">High Priority</string>
+    <string name="notification_channel_low_priority">Low Priority</string>
+
+</resources>
